@@ -1,0 +1,68 @@
+Kharif Crop,Rabi Crop,State,Acres,Carbon Sequestration,Sustainable Method (1),Sustainable Method (2),Cost,Yield Increase (%),Emission Reduction (%)
+Rice,Wheat,Punjab,10,1000,Organic Farming,,2000,10,20
+Maize,Mustard,Haryana,8,800,Agroforestry, No-Till,1800,12,18
+Sorghum,Chickpea,Maharashtra,15,1200,Crop Rotation, Compost,2500,8,25
+Cotton,Wheat,Gujarat,12,900,Precision Farming,,2200,15,15
+Sugarcane,Barley,Uttar Pradesh,20,1400,Vermicomposting, Mulching,2800,10,20
+Soybean,Gram,Madhya Pradesh,18,1100,Cover Crops, Conservation Tillage,2400,14,16
+Pearl Millet,Lentils,Rajasthan,22,1500,Rainwater Harvesting, Green Manure,3000,9,22
+Groundnut,Barley,Andhra Pradesh,14,950,Intercropping, Biochar,2100,13,14
+Rice,Wheat,Tamil Nadu,10,900,System of Rice Intensification (SRI),,1900,11,18
+Chickpea,Mustard,Karnataka,9,850,Integrated Pest Management, No-Till,2100,12,17
+Rice,Wheat,Punjab,12,1100,Organic Farming,,2200,11,19
+Maize,Mustard,Haryana,7,750,Agroforestry, No-Till,1700,10,17
+Sorghum,Chickpea,Maharashtra,20,1300,Crop Rotation, Compost,2800,9,24
+Cotton,Wheat,Gujarat,15,950,Precision Farming,,2100,14,14
+Sugarcane,Barley,Uttar Pradesh,18,1200,Vermicomposting, Mulching,2600,8,19
+Soybean,Gram,Madhya Pradesh,16,1050,Cover Crops, Conservation Tillage,2300,15,15
+Pearl Millet,Lentils,Rajasthan,24,1600,Rainwater Harvesting, Green Manure,3200,10,24
+Groundnut,Barley,Andhra Pradesh,13,900,Intercropping, Biochar,2000,12,13
+Rice,Wheat,Tamil Nadu,11,850,System of Rice Intensification (SRI),,1800,13,18
+Chickpea,Mustard,Karnataka,10,800,Integrated Pest Management, No-Till,2000,11,16
+Rice,Wheat,Punjab,11,1050,Organic Farming,,2100,12,21
+Maize,Mustard,Haryana,9,850,Agroforestry, No-Till,1900,11,20
+Sorghum,Chickpea,Maharashtra,14,1150,Crop Rotation, Compost,2400,10,23
+Cotton,Wheat,Gujarat,13,950,Precision Farming,,2150,13,16
+Sugarcane,Barley,Uttar Pradesh,21,1350,Vermicomposting, Mulching,2700,9,21
+Soybean,Gram,Madhya Pradesh,17,1050,Cover Crops, Conservation Tillage,2350,13,15
+Pearl Millet,Lentils,Rajasthan,23,1550,Rainwater Harvesting, Green Manure,3100,8,24
+Groundnut,Barley,Andhra Pradesh,15,900,Intercropping, Biochar,2000,12,14
+Rice,Wheat,Tamil Nadu,11,950,System of Rice Intensification (SRI),,2000,13,19
+Chickpea,Mustard,Karnataka,10,900,Integrated Pest Management, No-Till,2100,11,18
+Rice,Wheat,Punjab,14,1200,Organic Farming,,2400,14,22
+Maize,Mustard,Haryana,8,800,Agroforestry, No-Till,1800,10,17
+Sorghum,Chickpea,Maharashtra,17,1400,Crop Rotation, Compost,2700,12,25
+Cotton,Wheat,Gujarat,14,1000,Precision Farming,,2200,16,15
+Sugarcane,Barley,Uttar Pradesh,19,1300,Vermicomposting, Mulching,2600,10,20
+Soybean,Gram,Madhya Pradesh,17,1050,Cover Crops, Conservation Tillage,2350,13,15
+Pearl Millet,Lentils,Rajasthan,23,1550,Rainwater Harvesting, Green Manure,3100,8,24
+Groundnut,Barley,Andhra Pradesh,15,900,Intercropping, Biochar,2000,12,14
+Rice,Wheat,Tamil Nadu,11,950,System of Rice Intensification (SRI),,2000,13,19
+Chickpea,Mustard,Karnataka,10,900,Integrated Pest Management, No-Till,2100,11,18
+Rice,Wheat,Punjab,14,1200,Organic Farming,,2400,14,22
+Maize,Mustard,Haryana,8,800,Agroforestry, No-Till,1800,10,17
+Sorghum,Chickpea,Maharashtra,17,1400,Crop Rotation, Compost,2700,12,25
+Cotton,Wheat,Gujarat,14,1000,Precision Farming,,2200,16,15
+Sugarcane,Barley,Uttar Pradesh,19,1300,Vermicomposting, Mulching,2600,10,20
+Soybean,Gram,Madhya Pradesh,17,1050,Cover Crops, Conservation Tillage,2350,13,15
+Pearl Millet,Lentils,Rajasthan,23,1550,Rainwater Harvesting, Green Manure,3100,8,24
+Groundnut,Barley,Andhra Pradesh,15,900,Intercropping, Biochar,2000,12,14
+Rice,Wheat,Tamil Nadu,11,950,System of Rice Intensification (SRI),,2000,13,19
+Chickpea,Mustard,Karnataka,10,900,Integrated Pest Management, No-Till,2100,11,18
+Rice,Wheat,Punjab,14,1200,Organic Farming,,2400,14,22
+Maize,Mustard,Haryana,8,800,Agroforestry,,2000,10,14
+Rice,Wheat,Punjab,10,1000,Organic Farming,,2000,10,20
+Maize,Mustard,Haryana,8,800,Agroforestry, No-Till,1800,12,18
+Sorghum,Chickpea,Maharashtra,15,1200,Crop Rotation, Compost,2500,8,25
+Cotton,Wheat,Gujarat,12,900,Precision Farming,,2200,15,15
+Sugarcane,Barley,Uttar Pradesh,20,1400,Vermicomposting, Mulching,2800,10,20
+Soybean,Gram,Madhya Pradesh,18,1100,Cover Crops, Conservation Tillage,2400,14,16
+Pearl Millet,Lentils,Rajasthan,22,1500,Rainwater Harvesting, Green Manure,3000,9,22
+Groundnut,Barley,Andhra Pradesh,14,950,Intercropping, Biochar,2100,13,14
+Rice,Wheat,Tamil Nadu,10,900,System of Rice Intensification (SRI),,1900,11,18
+Chickpea,Mustard,Karnataka,9,850,Integrated Pest Management, No-Till,2100,12,17
+Rice,Wheat,Punjab,12,1100,Organic Farming,,2200,11,19
+Maize,Mustard,Haryana,7,750,Agroforestry, No-Till,1700,10,17
+Sorghum,Chickpea,Maharashtra,20,1300,Crop Rotation, Compost,2800,9,24
+Cotton,Wheat,Gujarat,15,950,Precision Farming,,2100,14,14
+Sugarcane,Barley,Uttar Pradesh,18,1200,Vermicomposting, Mulching,2600,8,19
